@@ -1,5 +1,3 @@
-import '../lab03/solutions/hello-function.dart';
-
 void main() {
   bool isDartCool = isDartCoolFunc();
   if (isDartCool) {
